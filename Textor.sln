@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textor", "Textor\Textor.csproj", "{D5DF0277-62E4-4DFB-9F3C-3D91CEF9619A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5DF0277-62E4-4DFB-9F3C-3D91CEF9619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DF0277-62E4-4DFB-9F3C-3D91CEF9619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DF0277-62E4-4DFB-9F3C-3D91CEF9619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DF0277-62E4-4DFB-9F3C-3D91CEF9619A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {421AD046-F382-45A3-8D71-7C1AF83D4D73}
+	EndGlobalSection
+EndGlobal
